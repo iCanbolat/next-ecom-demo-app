@@ -48,7 +48,6 @@ This application demonstrates different rendering techniques optimized for e-com
 - **Rendering Method**: Client-side with React Context
 - **Why Client-side?**: Cart state is user-specific and requires interactivity.
 - **Persistence**: LocalStorage for store products.
-- 
 
 ## 🖼️ Image Optimization Techniques
 
