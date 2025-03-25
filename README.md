@@ -89,14 +89,6 @@ yarn dev
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 
-## 🚀 Performance Considerations
-
-- **ISR for Static Content**: Pre-rendered pages served from the edge
-- **Client-side Interactivity**: Dynamic features like cart management run on the client
-- **Image Optimization**: Next.js Image component with proper sizing and loading states
-- **Metadata Optimization**: Dynamic metadata for better SEO
-
-
 ## 🔍 SEO Optimizations
 
 - **Server-rendered Content**: All product data is pre-rendered for search engines
